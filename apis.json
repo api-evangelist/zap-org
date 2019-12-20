@@ -1,0 +1,44 @@
+{
+    "name": "Zap.org",
+    "description": "Access oracles that bring real-world decentralized data to the blockchain. The Zap Store allows users to create, publish, and subscribe to smart contract and decentralized application compatible data feeds. Zap is building a novel, market based solutio...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28229-zap-org.jpg",
+    "tags": [
+        "blockchain",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/zap-org\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Zap.org",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28229-zap-org.jpg",
+            "humanURL": "https:\/\/zap.org",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/zap-org-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/zap-42fd"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/ZapOracles"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/zap.org"
+        }
+    ]
+}
